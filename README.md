@@ -1,6 +1,3 @@
-Sure, here's an example GitHub profile for .i sebking jon:
-
----
 
 ## Hi there, I'm  Azimeraw Taddese👋
 ### Software Engineer and Web Designer
