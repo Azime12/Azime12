@@ -5,7 +5,7 @@
 I'm passionate about developing software and creating beautiful, responsive web designs. I have experience using a variety of programming languages and tools, including ReactJS, NodeJS, C++, PHP, Bootstrap, Java, and Python.
 
 ### Projects
-- [Plants-Disease-Detection-using-Tensorflow-and-OpenCV](- https://github.com/Azime12/Plant-Disease-Detection) - Python,Convolutional Neural Networks (CNN),Machine Learning and Flask
+- [Plants-Disease-Detection-using-Tensorflow-and-OpenCV](https://github.com/Azime12/Plant-Disease-Detection) - Python,Convolutional Neural Networks (CNN),Machine Learning and Flask
 - [MERN FULL STACK Bus Reasrvation System](https://github.com/Azime12/React-App-bus-reservation-System) - Bus Reservation System  in MERN
 - [React portFlio web site](https://github.com/Azime12/My-Portflio-React-app) - A simple react web site for my portfoi it responsive and best web
 - [Full stace School managment system](https://github.com/Azime12/School-Mangment-system-METN-app) - full stack school managment system using mysql ,react,nodejs,express
