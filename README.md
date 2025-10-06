@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Azimeraw Taddese  
+[# 👋 Hey there, I'm Azimeraw Taddese  
 
 ### 🎨 A Creative Full-Stack JavaScript Developer  
 I’m a **Full-Stack Developer** who loves crafting **interactive, scalable, and high-performing web applications**.  
@@ -112,3 +112,4 @@ Whether it's a game, an admin dashboard, or a productivity app — I focus on **
 
 > 💡 _“Code is more than syntax — it’s creativity, logic, and a bit of art.”_  
 > — **Azimeraw Taddese**
+](https://www.linkedin.com/in/azimeraw-taddese-8b3015241/)
