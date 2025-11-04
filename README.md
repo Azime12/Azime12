@@ -48,10 +48,6 @@ Whether it's a game, an admin dashboard, or a productivity app — I focus on **
 
 ## 📫 Let's Connect  
 
-💼 [# 👋 Hey there, I'm Azimeraw Taddese  
 
-### 🎨 A Creative Full-Stack JavaScript Developer  
-I’m a **Full-Stack Developer** who loves crafting **interactive, scalable, and high-performing web applications**.  
-My goal is to transform **ideas into functional, elegant, and user-focused digital products** that make an impact.
 
 
